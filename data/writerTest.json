@@ -1,0 +1,28 @@
+{
+    "currentNumberOfSuites": 5,
+    "name": "Hotel Grand",
+    "currentNumberOfDoubleRooms": 25,
+    "currentNumberOfSingleRooms": 10,
+    "guestList": [
+        {
+            "phoneNumber": 6662379,
+            "checkIn": "2024-03-05",
+            "minibarUse": true,
+            "name": "Grace Shelby",
+            "overstayStatus": true,
+            "checkOut": "2024-03-12",
+            "outstandingBill": 100,
+            "roomType": "Suite"
+        },
+        {
+            "phoneNumber": 5552379,
+            "checkIn": "2024-03-05",
+            "minibarUse": true,
+            "name": "Alfie Simmons",
+            "overstayStatus": false,
+            "checkOut": "2024-03-12",
+            "outstandingBill": 200,
+            "roomType": "Suite"
+        }
+    ]
+}

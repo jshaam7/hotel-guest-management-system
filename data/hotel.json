@@ -1,0 +1,68 @@
+{
+    "currentNumberOfSuites": -9,
+    "name": "Hotel Grand",
+    "currentNumberOfDoubleRooms": 36,
+    "currentNumberOfSingleRooms": 40,
+    "guestList": [
+        {
+            "phoneNumber": 5551234,
+            "checkIn": "2024-03-01",
+            "minibarUse": false,
+            "name": "Thomas Shelby",
+            "overstayStatus": false,
+            "checkOut": "2024-03-10",
+            "outstandingBill": 650,
+            "roomType": "Suite"
+        },
+        {
+            "phoneNumber": 5555678,
+            "checkIn": "2024-03-02",
+            "minibarUse": false,
+            "name": "Arthur Shelby",
+            "overstayStatus": false,
+            "checkOut": "2024-03-09",
+            "outstandingBill": 150,
+            "roomType": "Single Room"
+        },
+        {
+            "phoneNumber": 5559876,
+            "checkIn": "2024-03-03",
+            "minibarUse": false,
+            "name": "John Shelby",
+            "overstayStatus": false,
+            "checkOut": "2024-03-08",
+            "outstandingBill": 250,
+            "roomType": "Double Room"
+        },
+        {
+            "phoneNumber": 5554321,
+            "checkIn": "2024-03-04",
+            "minibarUse": false,
+            "name": "Polly Grey",
+            "overstayStatus": false,
+            "checkOut": "2024-03-07",
+            "outstandingBill": 150,
+            "roomType": "Single Room"
+        },
+        {
+            "phoneNumber": 5558765,
+            "checkIn": "2024-03-05",
+            "minibarUse": false,
+            "name": "Michael Grey",
+            "overstayStatus": true,
+            "checkOut": "2024-03-12",
+            "outstandingBill": 650,
+            "roomType": "Suite"
+        },
+        {
+            "phoneNumber": 5552468,
+            "checkIn": "2024-03-06",
+            "minibarUse": true,
+            "name": "Ada Shelby",
+            "overstayStatus": true,
+            "checkOut": "2024-03-11",
+            "outstandingBill": 150,
+            "roomType": "Single Room"
+        }
+    ]
+}

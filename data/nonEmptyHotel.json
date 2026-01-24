@@ -1,0 +1,29 @@
+{
+  "name": "Hotel Not Empty",
+  "currentNumberOfSuites": 4,
+  "currentNumberOfSingleRooms": 8,
+  "currentNumberOfDoubleRooms": 12,
+  "guestList": [
+    {
+      "phoneNumber": 6662379,
+      "checkIn": "2024-03-05",
+      "name": "Grace Shelby",
+      "checkOut": "2024-03-12",
+      "roomType": "Suite",
+      "outstandingBill": 100,
+      "overstayStatus": true,
+      "minibarUse": true
+
+    },
+    {
+      "phoneNumber": 5552379,
+      "checkIn": "2024-03-05",
+      "name": "Alfie Simmons",
+      "checkOut": "2024-03-12",
+      "roomType": "Suite",
+      "outstandingBill": 200,
+      "overstayStatus": false,
+      "minibarUse": true
+    }
+  ]
+}

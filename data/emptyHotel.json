@@ -1,0 +1,7 @@
+{
+    "name": "Hotel Empty",
+    "currentNumberOfSuites": 4,
+    "currentNumberOfSingleRooms": 8,
+    "currentNumberOfDoubleRooms": 12,
+    "guestList": []
+}
