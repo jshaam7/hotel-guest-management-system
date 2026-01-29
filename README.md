@@ -10,6 +10,8 @@ before the advent of software systems. Hence, I have taken up this project to ga
 intricacies of software development. This project would also enable me to explore how Java can be used to simplify an
 industry problem.
 
+*Feel free to download demo.mp4 and take a look at the application in action!*
+
 *The application is designed with the vision of simplifying the job of hotel staff.*
 
 **A guest would have the following attributes:**
