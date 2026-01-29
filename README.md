@@ -44,7 +44,7 @@ industry problem.
 - As a user, I want to be able to save my guestList to file (if I so choose)
 - As a user, I want to be able to be able to load my guestList from file (if I so choose)
 
-# Instructions for Grader
+# User Instructions
 
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by clicking
 on Guest Check In. This adds Guest X to guestList Y.
@@ -69,7 +69,7 @@ All logged events:
 
 This task can also be viewed in the GUI. Events logged are displayed upon clicking the Exit button.
 
-# Phase 4: Task 3
+# Phase 4: Task 3 (Future Iteration Ideas)         
 
 Given more time, I would have worked on introducing an abstract class named Accomodation which can streamline 
 the design of the hotel management system by consolidating shared functionality and attributes. By encapsulating common
