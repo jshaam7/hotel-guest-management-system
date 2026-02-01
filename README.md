@@ -1,16 +1,15 @@
 # My Personal Project
 
 ## Hotel Guest Management System
+### Feel free to download demo.mp4 and take a look at the application in action!
 
 As someone who enjoys travelling, I have spent a considerable amount of time staying at hotels. Before being exposed to
-coding and database management, I often wondered how hotels maintain such copious amounts of guest details and data. 
-Further, I have also wondered how they check for the earliest availability among hundreds of currently booked rooms
-as well. It must have been a tedious process to maintain all this data and manipulate them based on the situation 
-before the advent of software systems. Hence, I have taken up this project to gain a better understanding on the 
+coding and database management, I often wondered how hotels maintain such extensive amounts of guest details and data. 
+Further, I have also wondered how they check for the earliest availability among hundreds of currently booked rooms?. 
+It must have been a tedious process to maintain all this data and manipulate it based on the situation 
+before the advent of software systems. Hence, I have taken up this project to gain a better understanding of the 
 intricacies of software development. This project would also enable me to explore how Java can be used to simplify an
 industry problem.
-
-*Feel free to download demo.mp4 and take a look at the application in action!*
 
 *The application is designed with the vision of simplifying the job of hotel staff.*
 
